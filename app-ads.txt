@@ -1,0 +1,13 @@
+# app-ads.txt for Google AdMob
+# Este arquivo autoriza o Google AdMob a vender inventário de anúncios para este aplicativo
+
+# Google AdMob
+google.com, pub-7078974644022435, DIRECT, f08c47fec0942fa0
+
+# Instruções:
+# 1. Substitua 'pub-0000000000000000' pelo seu Publisher ID do AdMob
+# 2. Você pode encontrar seu Publisher ID no painel do AdMob em:
+#    Apps > App settings > App information
+# 3. Hospede este arquivo em: https://seudominio.com/app-ads.txt
+# 4. O arquivo deve ser acessível publicamente via HTTPS
+# 5. Adicione o URL deste arquivo nas configurações do seu app no Google Play Console
